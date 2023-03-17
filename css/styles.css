@@ -2,6 +2,7 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
 
 /* Styles for the body */
 
@@ -27,7 +28,7 @@ body {
 
 .headertext {
 	color: white;
-	font-family: Jokerman; 
+	font-family: 'Comic Neue', cursive;
 }
 
 /* Styles for lists in the document */
