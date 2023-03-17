@@ -11,11 +11,6 @@ body {
 	background-color: #f8f8fc;
 }
 
-.headertext {
-	color: white;
-	font-family: Jokerman; 
-}
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -28,6 +23,11 @@ body {
 
 .resume-aside {
 	background-color: #fff0e0;
+}
+
+.headertext {
+	color: white;
+	font-family: Jokerman; 
 }
 
 /* Styles for lists in the document */
